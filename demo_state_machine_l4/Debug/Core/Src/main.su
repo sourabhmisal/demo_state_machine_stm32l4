@@ -1,0 +1,7 @@
+../Core/Src/main.c:71:6:turn_led_on	8	static
+../Core/Src/main.c:75:6:turn_led_off	8	static
+../Core/Src/main.c:79:6:read_button_state	16	static
+../Core/Src/main.c:89:6:transition_state	16	static
+../Core/Src/main.c:112:5:main	8	static
+../Core/Src/main.c:168:6:SystemClock_Config	96	static
+../Core/Src/main.c:221:6:Error_Handler	4	static,ignoring_inline_asm

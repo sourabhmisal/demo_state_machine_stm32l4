@@ -1,0 +1,12 @@
+../App/library/log/log.c:55:13:stdout_callback	24	static
+../App/library/log/log.c:72:13:file_callback	96	static
+../App/library/log/log.c:84:13:lock	8	static
+../App/library/log/log.c:89:13:unlock	8	static
+../App/library/log/log.c:94:13:log_level_string	16	static
+../App/library/log/log.c:99:6:log_set_lock	16	static
+../App/library/log/log.c:105:6:log_set_level	16	static
+../App/library/log/log.c:110:6:log_set_quiet	16	static
+../App/library/log/log.c:115:5:log_add_callback	40	static
+../App/library/log/log.c:126:5:log_add_fp	16	static
+../App/library/log/log.c:131:13:init_event	24	static
+../App/library/log/log.c:141:6:log_log	68	static
